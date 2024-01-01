@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841843061886",
+    "project_id": "up-hello",
+    "storage_bucket": "up-hello.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841843061886:android:ae50db4757a7c56297942f",
+        "android_client_info": {
+          "package_name": "com.uphello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841843061886-o8nv3bftnb95s7cj3ivildubjb61nn1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWSbl5zqwa3G_AEshK8dLzQ4FSc4i74rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841843061886-o8nv3bftnb95s7cj3ivildubjb61nn1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
